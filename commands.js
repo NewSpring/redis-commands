@@ -1,4 +1,4 @@
-{
+module.exports = {
   "append": {
     "arity": 3,
     "flags": [
